@@ -18,7 +18,7 @@ The following animations show the web application's appearance and functionality
 
 ![MarvelTube Website Homepage](./Assets/img/MarvelTube.gif)
 
-
+Click [here](https://alainatividad.github.io/MarvelTube/) to see the webpage in action
 ## Features
 
 - Featured/Famous Characters
