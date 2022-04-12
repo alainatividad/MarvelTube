@@ -10,7 +10,7 @@ This is a web application that Integrates Youtube API and Marvel API to produce 
 
 Users can use the Register button on the top-left of the page, enter their email addresses and passwords, and the program would use localStorage to remember those details.
 
-This project is built using HTML, [Semantic UI](https://semantic-ui.com/), a CSS framework, and several server-side API's namely [Youtube API](https://developers.google.com/youtube) and [Marvel API](https://developer.marvel.com/).
+This project is built using HTML, a CSS framework called [Semantic UI](https://semantic-ui.com/), and several server-side API's namely [Youtube API](https://developers.google.com/youtube) and [Marvel API](https://developer.marvel.com/).
 
 ## Website
 
